@@ -1,0 +1,15 @@
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\bin\Debug\net6.0\Program1.exe
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\bin\Debug\net6.0\Program1.deps.json
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\bin\Debug\net6.0\Program1.runtimeconfig.json
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\bin\Debug\net6.0\Program1.dll
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\bin\Debug\net6.0\Program1.pdb
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\Program1.csproj.AssemblyReference.cache
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\Program1.AssemblyInfoInputs.cache
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\Program1.AssemblyInfo.cs
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\Program1.dll
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\refint\Program1.dll
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\Program1.pdb
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\Program1.genruntimeconfig.cache
+C:\Users\holde\OneDrive\Documents\INFOTC4400\Program1\obj\Debug\net6.0\ref\Program1.dll
